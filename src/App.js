@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          We can coding~~~~~!!
+          We can coding and development
         </a>
       </header>
     </div>
